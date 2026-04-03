@@ -1,0 +1,31 @@
+/*header*/
+.header {
+    color: wheat;
+    background-color: black;
+    padding: 20px;
+    border-radius: 50px;
+    text-align:center;
+}
+
+/*para*/
+.para{
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.c-holder{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.c {
+    flex: 30%;
+}
+
+.c img {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
